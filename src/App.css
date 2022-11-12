@@ -101,6 +101,7 @@ div.topic-image {
 div.topic-image img {
     height: 300px;
     margin-left: 50px;
+    border-radius: 50px;
     filter: brightness(150%) saturate(100%) invert(0%) grayscale(0%);
 }
 

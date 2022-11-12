@@ -6,12 +6,12 @@ function App() {
     return (
         <>
             <div className="header">
-                <p>Metals & Non-Metals</p>
+                <p>Sound</p>
                 <img alt="Header" src={header} />
             </div>
             <div className="x">
                 <div className="topic">
-                    <div className="topic-heading">What are elements?</div>
+                    <div className="topic-heading">What is sound?</div>
                     <br />
                     <div className="topic-content">
                         <div className="topic-text">Sound, like heat and light, is a form of energy. It is a natural phenomenon that is produced by vibrational motion of objects. It travels from the source to any place in the form of waves. Let us understand in detail how sound is produced.
