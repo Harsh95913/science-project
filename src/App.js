@@ -14,11 +14,7 @@ function App() {
                     <div className="topic-heading">What are elements?</div>
                     <br />
                     <div className="topic-content">
-                        <div className="topic-text">A chemical element is a species of atoms that have a given number of protons
-                            in their nuclei, including the pure substance consisting only of that species. Unlike chemical
-                            compounds, chemical elements cannot be broken down into simpler substances by any chemical
-                            reaction.
-                            Elements are of three types:-
+                        <div className="topic-text">Sound, like heat and light, is a form of energy. It is a natural phenomenon that is produced by vibrational motion of objects. It travels from the source to any place in the form of waves. Let us understand in detail how sound is produced.
                         </div>
                         <div className="topic-image">
                             <img alt="atom" src={atom_structure} />
